@@ -1,0 +1,313 @@
+---
+title: "Syllabus"
+book_filename: psyc18
+output:
+  html_document:
+    toc: yes
+    theme: united
+  pdf_document:
+    toc: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<p align="center">**San Jos&eacute; State University**</p>
+
+<p align="center">**Department of Psychology**</p>
+
+<p align="center">**STAT 095: Elementary Statistics**</p>
+
+<p align="center">**Section 80, Spring 2024**</p>
+
+<p align="center">Last updated: `r format(Sys.time(), '%B %d, %Y')`</p>
+
+<p align="center">**This version may be out of date. Find the [latest version here](https://vectrlab.github.io/elementary-stats-online-syllabus/index.html)**</p>
+
+
+# Instructor Contact Information
+Instructor:	      David Schuster, Ph.D.
+
+Office Location:	DMH 315
+
+Telephone:	      408-924-5659
+
+Email:	          david.schuster@sjsu.edu
+
+Office Hours:	    Tuesdays and Thursdays 9:00am-10:00am online via [Zoom meeting](https://sjsu.zoom.us/j/86362443375?pwd=ZCsvMzdFWldBUTV3WGZ4a1lwaUtGdz09); also available by appointment
+
+# Course Information
+Classroom:	      Online; this is an asynchronous course
+
+Class Days/Time:	Online
+
+Prerequisites:	  Math Enrollment Category M-I or M-II, or for Categories III or IV, completion of a GE Area B4 course with a grade of C- or better.
+
+# Welcome!
+
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
+
+I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
+
+# Strike Update
+
+The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. We will be going on strike from January 22 – January 26. We demand management gives us a fair contract that recognizes the dignity of CSU faculty, staff, and students. Our working conditions are student learning conditions; we seek to protect both. For further information go to: www.calfac.org/strike.
+
+# Course Description
+We live in a time of unprecedented access to information. Whether researching the best school, job, or relationship, the Internet has thrown open the doors to vast pools of data. Statistics are objective and systematic methods for describing and interpreting information so that you may make the most informed decisions about life.
+
+From the catalog: Hypothesis testing and predictive techniques to facilitate decision-making; organization and classification of data, descriptive and inferential statistics, central tendency, variability, probability and sampling distributions, graphic representation, correlation and regression, chi-square, t-tests, and analysis of variance. Computer use in analysis and interpretation. Intended for Psychology majors and minors as well as for programs in Behavioral Science, Child Development, Education, Health Science, Nursing, Nutritional Science, Social Science, and Social Work.
+
+## Course Format
+
+This is an asynchronous online course. That means that you will complete each week's material at your own pace.
+
+
+# Learning Outcomes {#learningoutcomes}
+
+## GE and Course Content Learning Outcomes {#clos}
+
+The objective of this course is to provide you with a solid introduction to statistics. Upon successful completion of this course, you will be able to:
+
+-	GELO1 – Use statistical methods to solve quantitative problems, including those presented in verbal form 
+
+-	GELO2 – Demonstrate the ability to use mathematics and statistics to solve real-life problems 
+
+-	GELO3 – Arrive at conclusions based on numerical and graphical data
+
+Stat 95 will incorporate issues of diversity in many ways (e.g., in lectures and assignments).The learning outcomes will be assessed via written assignments and exam questions. These assessment items will involve solving verbal and symbolic quantitative problems, including those that involve real-world situations. Students will be required to arrive at conclusions using numerical and graphical data. For example, students may view a scatterplot depicting data for the amount of sleep (X) and visual memory (Y) and determine whether a relationship exists between these variables. If so, they will describe the nature and strength of this relationship (CLO 3). In addition, students will compute appropriate statistical measures that describe the relationship (CLO 1) and then determine the practical implications of the observed relationship (CLO 2, 3).
+
+Stat 95 requires students to write a minimum of 500 words in a manner appropriate to quantitative analysis. The writing requirement will be met via regular written assignments (described below). Writing will be assessed for grammar, clarity, conciseness, and coherence. 
+
+## Program Learning Outcomes {#plos}
+Upon successful completion of the requirements for a major in psychology, students will be able to:
+
+-	PLO1 – Knowledge Base of Psychology – identify, describe, and communicate the major concepts, theoretical perspectives, empirical findings, and historical trends in psychology
+
+-	PLO2 – Research Methods in Psychology – design, implement, and communicate basic research methods in psychology, including research design, data analysis, and interpretations
+
+-	PLO3 – Critical Thinking Skills in Psychology – use critical and creative thinking, skeptical inquiry, and a scientific approach to address issues related to behavior and mental processes
+
+-	PLO4 – Application of Psychology – apply psychological principles to individual, interpersonal, group, and societal issues
+
+-	PLO5 – Values in Psychology – value empirical evidence, tolerate ambiguity, act ethically, and recognize their role and responsibility as a member of society
+
+Each assignment in this course maps onto one or more of these PLOs, with full coverage over all assignments in the course. PLOs 1-6 are especially emphasized in the first weeks of the course, and PLOs 7-9 are especially emphasized in the subsequent weeks of the course.
+
+# Required Materials {#requiredmaterials}
+
+## Canvas and E-Mail
+
+All graded assignments will be accepted in electronic form using the Canvas learning management system assignments page (Canvas is available at https://sjsu.instructure.com/). Communication regarding the course will be posted to Canvas or sent via the e-mail address linked to your MySJSU account. It is your responsibility to make sure you are enrolled in Canvas and receiving my emails.
+
+## Udacity: Online Lectures
+Interactive lecture videos are provided through [Udacity](https://www.udacity.com/course/statistics--st095). You must sign up with a free Udacity account and enroll in the free course. Double-check that your course is titled “Statistics.” 
+
+## Google Collab: Online activities
+Some activities will be provided as [Google Collab notebooks](https://colab.research.google.com). You will need to be signed into Google using your @sjsu account to access this content.
+
+## Spreadsheets
+You will need a spreadsheet in order to do calculations for this course. It is recommended that you use [Google Sheets](http://docs.google.com/spreadsheets/?usp=mkt_sheets) through your SJSU Google account. The course will include a spreadsheet tutorial to help you if you are new to spreadsheets.
+
+## Optional textbooks
+There is no required textbook for this course. You may wish to consult a textbook for additional explanation of course topics. To help you do that, optional, supplemental handouts are posted on Canvas. Free, online textbooks are another option: 
+
+[Collaborative Statistics](http://cnx.org/content/col10522/latest/) available at http://cnx.org/content/col10522/latest/ 
+[OpenIntro Statistics](http://www.openintro.org/stat/textbook.php) available at http://www.openintro.org/stat/textbook.php  
+
+## Computer
+
+A laptop or tablet computer with Internet access will be necessary to participate in class activities, take exams, and for your use outside of class. In lieu of a computer or tablet, a smartphone may be used but is unlikely to provide a good experience. You will need a keyboard and the ability to browse web sites and use spreadsheets, a calculator, a word processor, and a stopwatch. If you do not have a laptop or tablet computer available for this course, please meet with me to discuss free options for computer resources. I will work with you to find acceptable free computing resources. 
+
+You may choose to meet with me via <a href="https://sjsu.zoom.us">Zoom</a>. A webcam and microphone are recommended but not required. For your security, I recommend that you disable or cover your webcam when not in use.
+
+You do *not* need to purchase licenses for any software for this course.
+
+Although you will not need them for this course, you should be aware that these software packages are available to you at no cost:
+
+- [RStudio](https://www.rstudio.com)
+
+- [R](https://cran.r-project.org)
+
+- [SPSS](https://www.sjsu.edu/it/services/collaboration/software/instructions.php)
+
+- [G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+
+- [Adobe Creative Cloud](https://www.sjsu.edu/ecampus/software-tools/teaching-tools/video-creative/adobe/students.php)
+
+- [Microsoft Office](https://www.office.com/getoffice365)
+
+- [Google Drive](https://sjsu.drive.google.com)
+
+# Grading Policy
+
+## Determination of Grades
+
+Grades will be available to you on Canvas throughout the semester. Grades are assigned based on your final point total out of 1000 points for the course:
+
+--------------------------------------
+Grade                 Points
+--------------------- ----------------
+A plus	              > 965 points
+
+A	                    916 to 965 points
+
+A minus	              896 to 915 points
+
+B plus                866 to 895 points
+
+B	                    816 to 865 points
+
+B minus	              796 to 815 points
+
+C plus	              766 to 795 points
+
+C	                    716 to 765 points
+
+C minus	              696 to 715 points
+
+D plus	              666 to 695 points
+
+D	                    616 to 665 points
+
+D minus               595 to 615 points
+
+F	                    < 595 points
+--------------------------------------
+
+## Rounding is Included in the Grading Scale
+
+The point totals reflect rounding up to the nearest percentage. For example, an A- would normally require 900 points (or 90% of 1000 points). With rounding, it only requires 896 points (or 89.6% of 1000 points). Because rounding is built into the grading scale, your grade will be based on your final point total, rounded to the nearest whole point (so, 895.6 points is an A-, but 895.4 points is a B+). To be fair to everyone in the class, these are firm cutoffs.
+
+
+# Course Requirements and Assignments {#assignments}
+
+## Engagement Week (5% of grade = 50 points)
+Just as the name would imply, Engagement Week is your opportunity to make sure you’re ready for our asynchronous online course, and if so, that you are also ready to meet the challenges, responsibilities, and expectations of this class in particular.  The week will involve activities designed to get you ready to succeed in our class.
+
+- Get on Canvas – Getting logged into and familiar with Canvas is key to your success.  Activate your Canvas account and view our course site. Open the “Modules” page to see all the materials for each week of the course. Download everything in the first module (labeled “Start Here”), and keep these materials handy throughout the course.
+
+-	Set up your Udacity account and access the [lecture content](https://www.udacity.com/course/statistics--st095).
+
+- Watch the welcome video
+
+- Submit your personalized schedule (50 points) – This activity guides you in the preparation of your individualized class schedule. Instructions can be found on the “Modules” page on Canvas. 
+
+- Introduce yourself on our discussion board
+
+## Udacity Problem Sets (21% of grade = 210 points)
+Fourteen problem set assignments will be assigned worth 15 points each, for a total of 210 points. Each lesson on Udacity is followed by a problem set. These problem sets are meant to help you self-assess your knowledge of the concepts covered in each lesson (mapping onto learning outcomes 1 through 5). All problem sets are multiple-choice or short answer. The problem set will tell you if your answers are correct. For each assigned problem set, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. Mark all items you were able to answer correctly on your first attempt with a [*]. Finally, mark all items for which you could not get a satisfactory answer or are confused about the solution with a [?]. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Maps onto GELOs 1 and 3.
+
+## Quizzes (10% of grade = 100 points)
+Five quizzes are worth 25 points each, but the lowest one is dropped. This leaves 4 quizzes worth 25 points each, for a total of 100 points. Quizzes are designed to give you quick, low-stakes feedback on your mastery of the prior unit. Most weeks, a quiz will be assigned within Canvas. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your quiz alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots (e.g., ChatGPT), except the instructor during a quiz. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the quiz or discuss its concepts in more detail.
+
+In summary: Live help or automation is not okay for quizzes, but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams.
+
+Later concepts in this course build on earlier ones, so while quizzes will focus on the current week’s material, they are cumulative in that items may require knowledge from previous parts of the course. Maps onto GELOs 1-3.
+
+## Writing Assignments (64% of grade = 640 points)
+Ten writing assignments are worth 64 points each, for a total of 640 points. As part of the writing assignments, you will write a response to a prompt about using math and statistics to solve real life problems and arrive at conclusions based on numerical and graphical data (GLEO3). Assignments will be graded for the quality of argument and for grammar and mechanics. **All writing must be original and written solely by you**. Do not use a chatbot (e.g., ChatGPT) to write your response for you. You may use chatbots to help you interpret or understand, but if you copy words the chatbot has written, then the result is academic dishonesty. You will write over 500 words across these reflection assignments, which will satisfy the writing requirement. Maps onto GELO 2.
+
+## Extra Credit
+I intend to offer a small extra credit opportunity (approximately 25 points). Details are subject to change and will be announced in class. Maps onto GELOs 2-3.
+
+## Late Assignments and Make-Ups {#makeup}
+
+Assignments are due as indicated on Canvas, and the deadlines are strict. Because of this, I encourage you to avoid submitting assignments in the last two hours before the due date whenever possible. Late activity assignments and reflection questions will be accepted with a 20% penalty per day. That is, an assignment submitted between 0 and 23 hours past the deadline will be accepted with a 20% reduction included after grading. An assignment submitted 24 hours past the deadline will be accepted with a 40% reduction included after grading. Please allow extra time for me to grade late-submitted assignments. If your circumstances warrant an exception to the late assignment penalty, such as due to a health emergency, complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request an exception. **When you need an exception to the late assignment penalty, I need the request form completed as soon as you are able to complete it**.
+
+Class activities that are time-sensitive, such as quizzes, cannot be recreated easily and are not accepted late without an approved makeup. If you need a make-up assignment, please complete **[this form](https://docs.google.com/forms/d/e/1FAIpQLSepJUy_f3Y2WXoCHIAHd_5hUgq3KBK6nc8mkMCvP6_vfc41Cw/viewform?usp=sf_link)** to request a make up. Complete this form as soon **as you are aware of your need for a make-up and able to do so**. Make-ups are intended for exceptional and reasonably unavoidable circumstances.
+
+### No assignment submission after the last day of instruction
+
+I can only accept assignments (except the final) until 11:59pm on the last day of instruction for the semester. At that time, all unsubmitted and unsatisfactory/no credit assignments will receive zero points. Should an event prevent you from completing the course, contact me as soon as you are able to discuss our options for an incomplete. 
+
+
+## Final examination or evaluation {#final}
+
+Faculty members are required to have a culminating activity for their courses, which can include a final examination, a final research paper or project, a final creative work or performance, a final portfolio of work, or other appropriate assignment.
+
+The culminating activity for this course will be the final quiz.
+
+
+# Classroom Environment {#environment}
+
+We agree to:
+
+-	**Mutual respect**, which means that we recognize and value that we bring different skills, experiences, and qualities to our course, and we act with regard for how our behavior affects others. As much as we can, we recognize and accommodate individual constraints that impact our work. Some ways we will show mutual respect include:
+    + Affirming that ableism, classism, racism, sexism, transphobia, heterosexism, and xenophobia will not be acceptable in the physical and digital spaces that make up our course. 
+  
+    + Respecting our and others’ intellectual property. For students, this includes not sharing or posting copyrighted class materials. For me, this includes seeking permission before publicly sharing or posting your work (unless for an educational purpose, checking for or responding to academic dishonesty, or due to legal action). Your work may be sent to turnitin.com and processed through search engines to detect plagiarism. However, I will not allow turnitin.com to store your work in their repository.
+  
+    + We understand that we have multiple obligations and limited time. Our meetings will start promptly at times convenient for both of us.
+  
+    + We understand that we are all doing our best as we face our own challenges. I will expect that you put in reasonable effort on your assignments. You can expect patience and help whenever you struggle with course material. And, I am always available to meet with you should life events impact your progress in the course or success in your program.
+
+- **Academic and professional integrity**, which means that the credibility of science and education depends on us acting ethically. Ethical violations by us or our collaborators can jeopardize our research and harm our reputation as researchers. We also know that we cannot act ethically if we do not understand what that means for researchers. Therefore, it is important that research ethics are part of your learning in this class. You can expect support and guidance when you navigate and speak up on challenging ethical situations. You can also expect no tolerance of ethical or academic integrity violations that negatively affect our class or community, including cheating and plagiarism. You can expect your instructor to follow all University policies and protocols regarding the handling of suspected academic dishonesty. Penalties can include failure of the course.
+
+-	**Unlimited support** related to the class and your professional training and development. This means that there is no limit to the number of questions you may ask, e-mails you may send, and no restriction on the hours you can spend in meetings with me. You need never apologize for asking a question or seeking support. Time is limited but support is not; if the volume of student meetings were to become unmanageable, I will make adjustments to help all students more efficiently (for example, by answering a common question to the whole class). I am always happy to help you.
+
+-	**Incorporation of issues of social justice**. It is my goal to help prepare you to tackle the major societal challenges we face, including COVID-19 and broader issues of equity and sustainability. Success against these challenges requires equitable participation by people of diverse backgrounds and experiences. To support this goal, this course will incorporate discussion of social justice when relevant to the course and support your evaluation of how our discipline has/can/will address social justice, as well as how it has contributed to social injustice. 
+
+# University Policies {#policies}
+
+Per [University Policy S16-9](http://www.sjsu.edu/senate/docs/S16-9.pdf),relevant university policy concerning all courses, such as student responsibilities, academic integrity, accommodations, dropping and adding, consent for recording of class, etc. and available student services (e.g. learning assistance, counseling, and other resources) are listed on [Syllabus Information web page](https://www.sjsu.edu/curriculum/courses/syllabus-info.php). Make sure to visit this page to review and be aware of these university policies and resources.
+
+You must obtain the instructor’s permission to make any audio or video recordings in this class. Unless otherwise specified, course materials created by your instructor are copyrighted and cannot be redistributed.
+
+Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally three hours per unit per week) for instruction, preparation/studying, or course related activities, including but not limited to internships, labs, and clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus. 
+
+# Library Liaison 
+Our library liaison is Christa Bailey. Email: christa.bailey@sjsu.edu
+
+# Course Schedule {#schedule}
+
+The course schedule is tentative and likely to change; modifications will be posted to this page.
+
+**See Canvas for all assignment due dates**. Each weekly module will include a combination of Udacity problem sets, a quiz, and a writing assignment
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Week Starting Date          Topics                                                          Assignments            
+---- ---------------------- --------------------------------------------------------------- ----------------------------------------------
+1     Wed., Jan. 24         Introduction and engagement week                                Engagement week                               
+
+2     Mon., Jan. 29         Intro to research and measurement                               Engagement week, Udacity problem set, writing 1      
+
+3	    Mon., Feb. 5          Visualizing data                                                Udacity problem set, Writing 2      
+      
+4	    Mon., Feb. 12         Central tendency                                                Udacity problem set, Quiz 1
+      
+5	    Mon., Feb. 19         Variability                                                     Udacity problem set, Writing 3                
+                            **Note: Drop/Add Deadline Feb. 19**
+      
+6	    Mon., Feb. 26         Standardizing                                                   Udacity problem set, Writing 4  
+
+7	    Mon., Mar. 4          Normal distributions                                            Udacity problem set, Quiz 2                
+
+8	    Mon., Mar. 11         Sampling distributions                                          Udacity problem set, Writing 5  
+
+9	    Mon., Mar. 18         Estimation                                                      Udacity problem set, Writing 6                
+
+10    Mon., Mar. 25         Hypothesis testing                                              Udacity problem set, Quiz 3          
+
+  	  Mon., Apr. 1          **Spring recess**
+  	                        Cesar Chavez Day (Observed) - Campus Closed Mon. Apr. 1
+
+11	  Mon., Apr. 8          T-Tests, Part 1                                                 Udacity problem set, Writing 7                                   
+
+12	  Mon., Apr. 15         T-Tests, Part 2                                                 Udacity problem set, Quiz 4              
+
+13	  Mon., Apr. 22         One-way ANOVA, Part 1                                           Udacity problem set, Writing 8
+
+14	  Mon., Apr. 29         One-way ANOVA, Part 2                                           Udacity problem set, Writing 9             
+
+15	  Mon., May. 6          Correlation                                                     Udacity problem set, Writing 10                    
+
+      Mon., May 13          Last day of instruction, assignment submission ends 11:59 pm
+      
+Final Fri., May 16	        Final quiz due, 5:15pm                                          Quiz 5
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
