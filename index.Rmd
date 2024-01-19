@@ -4,11 +4,11 @@ book_filename: psyc18
 output:
   word_document:
     toc: no
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     theme: united
+  pdf_document:
+    toc: no
 ---
 
 ```{r setup, include=FALSE}
@@ -48,7 +48,7 @@ Prerequisites:	  Math Enrollment Category M-I or M-II, or for Categories III or 
 
 # Welcome!
 
-My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore research psychology.
+My name is Dr. David Schuster, and you are welcome to call me 'Dave,' 'David,' or 'Dr. Schuster.' My preferred pronouns are he/him/his. I have been teaching since 2008 and a professor at SJSU since 2013. I earned my Ph.D. in psychology from the University of Central Florida. I am looking forward to being your instructor as we explore statistics.
 
 I am here to help you, so please take advantage of opportunities to meet with me during drop-in office hours and by appointment. In these meetings, you can ask me questions, further discuss any part of the course, talk about your plans after graduation, and connect to other resources on campus.
 
