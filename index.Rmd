@@ -188,9 +188,11 @@ The point totals reflect rounding up to the nearest percentage. For example, an 
 ## Engagement Week (5% of grade = 50 points)
 Just as the name would imply, Engagement Week is your opportunity to make sure you’re ready for our asynchronous online course, and if so, that you are also ready to meet the challenges, responsibilities, and expectations of this class in particular.  The week will involve activities designed to get you ready to succeed in our class.
 
-- Get on Canvas – Getting logged into and familiar with Canvas is key to your success.  Activate your Canvas account and view our course site. Open the “Modules” page to see all the materials for each week of the course. Download everything in the first module (labeled “Start Here”), and keep these materials handy throughout the course.
+- Get on Canvas – Getting logged into and familiar with Canvas is key to your success.  Activate your Canvas account and view our course site. Open the “Modules” page to see all the materials for each week of the course. Download everything in the first module (labeled “Start Here”), and keep these materials handy throughout the course. Then, continue to the "Introduction and Engagement Week" module.
 
 -	Set up your Udacity account and access the [lecture content](https://www.udacity.com/course/statistics--st095).
+
+- Read the important notes
 
 - Watch the welcome video
 
@@ -199,17 +201,25 @@ Just as the name would imply, Engagement Week is your opportunity to make sure y
 - Introduce yourself on our discussion board
 
 ## Udacity Problem Sets (21% of grade = 210 points)
-Fourteen problem set assignments will be assigned worth 15 points each, for a total of 210 points. Each lesson on Udacity is followed by a problem set. These problem sets are meant to help you self-assess your knowledge of the concepts covered in each lesson (mapping onto learning outcomes 1 through 5). All problem sets are multiple-choice or short answer. The problem set will tell you if your answers are correct. For each assigned problem set, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. Mark all items you were able to answer correctly on your first attempt with a [*]. Finally, mark all items for which you could not get a satisfactory answer or are confused about the solution with a [?]. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Maps onto GELOs 1 and 3.
+Fourteen problem set assignments will be assigned worth 15 points each, for a total of 210 points. Each lesson on Udacity is followed by a problem set. These problem sets are meant to help you self-assess your knowledge of the concepts covered in each lesson (mapping onto learning outcomes 1 through 3). All problem sets are multiple-choice or short answer. The problem set will tell you if your answers are correct. For each assigned problem set, attempt every item at least once. Type out your answers to each item along with any work needed to solve the problem. Mark all items you were able to answer correctly on your first attempt with a [*]. Finally, mark all items for which you could not get a satisfactory answer or are confused about the solution with a [?]. This is graded for completion, (it is okay to make mistakes!) and you must attempt every item without leaving any blank. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Maps onto GELOs 1 and 3.
+
+Udacity has added an automated chatbot to their platform. You may use this tool as an aid, if you wish, but you may not generate the final answer for pasting into your assignment, as this would rob you of the practice this assignment is designed to offer. You should be aware that optional tools on the Udacity site are controlled by Udacity and subject to their privacy policy.
 
 ## Quizzes (10% of grade = 100 points)
-Five quizzes are worth 25 points each, but the lowest one is dropped. This leaves 4 quizzes worth 25 points each, for a total of 100 points. Quizzes are designed to give you quick, low-stakes feedback on your mastery of the prior unit. Most weeks, a quiz will be assigned within Canvas. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your quiz alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots (e.g., ChatGPT), except the instructor during a quiz. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the quiz or discuss its concepts in more detail.
+Five quizzes are worth 25 points each, but the lowest one is dropped. This leaves 4 quizzes worth 25 points each, for a total of 100 points. Quizzes are designed to give you quick, low-stakes feedback on your mastery of the prior unit. You may use support materials (your textbook, web sites, and your notes) when you take your quiz, but you must take your quiz alone without the help of any other live individual or automated aid. You may not communicate with anyone or any automation, including chatbots (e.g., ChatGPT), except the instructor during a quiz. Doing so is academic dishonesty. For example, you may refer to the web page of a textbook during a quiz, but you may not post messages or send e-mails to someone while you take a quiz. As with activities, I am always happy to answer your questions following the quiz or discuss its concepts in more detail.
 
 In summary: Live help or automation is not okay for quizzes, but any other resources are okay. Please let me know if you have questions about what is allowed during quizzes or exams.
 
 Later concepts in this course build on earlier ones, so while quizzes will focus on the current week’s material, they are cumulative in that items may require knowledge from previous parts of the course. Maps onto GELOs 1-3.
 
-## Writing Assignments (64% of grade = 640 points)
-Ten writing assignments are worth 64 points each, for a total of 640 points. As part of the writing assignments, you will write a response to a prompt about using math and statistics to solve real life problems and arrive at conclusions based on numerical and graphical data (GLEO3). Assignments will be graded for the quality of argument and for grammar and mechanics. **All writing must be original and written solely by you**. Do not use a chatbot (e.g., ChatGPT) to write your response for you. You may use chatbots to help you interpret or understand, but if you copy words the chatbot has written, then the result is academic dishonesty. You will write over 500 words across these reflection assignments, which will satisfy the writing requirement. Maps onto GELO 2.
+## Activity Assignments (32% of grade = 320 points)
+Five activities are worth 64 points each. The activities are designed to give you hands-on practice with the techniques discussed in other parts of the course. For each assigned activity, follow all instructions and submit the required documentation as described on Canvas. This is graded for completion, (it is okay to make mistakes!) and you must complete all parts for full credit. Substantially incomplete or blatantly effortless work will receive a score of zero. Submitting answers duplicated from others without attempting the problem yourself is academic dishonesty. Maps onto CLOs 1-3.
+
+## Writing Assignments (32% of grade = 320 points)
+Five writing assignments are worth 64 points each, for a total of 320 points. As part of the writing assignments, you will write a response to a prompt about using math and statistics to solve real life problems and arrive at conclusions based on numerical and graphical data (GLEO3). Assignments will be graded for the quality of argument and for grammar and mechanics. **All writing must be original and written solely by you**. Do not use a chatbot (e.g., ChatGPT) to write your response for you. Do not copy words or phrases from other sources. If ideas or claims are from other sources, you need to cite them. You may use chatbots to help you interpret or understand, but if you copy words the chatbot has written, then the result is academic dishonesty. You will write over 500 words across these reflection assignments, which will satisfy the writing requirement. Maps onto GELO 2.
+
+## GE Post Test Assessment (10 points of extra credit)
+This quiz is given to all students taking Elementary Statistics and is required. You will get one point of extra credit for each correct answer. Complete this quiz on your own without the help of anyone else. Maps onto GELOs 1-3.
 
 ## Extra Credit
 I intend to offer a small extra credit opportunity (approximately 25 points). Details are subject to change and will be announced in class. Maps onto GELOs 2-3.
@@ -273,41 +283,43 @@ Week Starting Date          Topics                                              
 ---- ---------------------- --------------------------------------------------------------- ----------------------------------------------
 1     Wed., Jan. 24         Introduction and engagement week                                Engagement week                               
 
-2     Mon., Jan. 29         Intro to research and measurement                               Engagement week, Udacity problem set, writing 1      
+2     Mon., Jan. 29         Research and measurement                                        Udacity problem set 1, Writing 1      
 
-3	    Mon., Feb. 5          Visualizing data                                                Udacity problem set, Writing 2      
+3	    Mon., Feb. 5          Visualizing data                                                Udacity problem set 2, Activity 1     
       
-4	    Mon., Feb. 12         Central tendency                                                Udacity problem set, Quiz 1
+4	    Mon., Feb. 12         Central tendency                                                Udacity problem set 3, Quiz 1
       
-5	    Mon., Feb. 19         Variability                                                     Udacity problem set, Writing 3                
-                            **Note: Drop/Add Deadline Feb. 19**
+5	    Mon., Feb. 19         Variability                                                     Udacity problem set 4, Writing 2     
+
+                            **Note: Drop/Add Deadline is Feb. 19**
       
-6	    Mon., Feb. 26         Standardizing                                                   Udacity problem set, Writing 4  
+6	    Mon., Feb. 26         Standardizing                                                   Udacity problem set 5, Activity 2
 
-7	    Mon., Mar. 4          Normal distributions                                            Udacity problem set, Quiz 2                
+7	    Mon., Mar. 4          Normal distribution                                             Udacity problem set 6, Quiz 2                
 
-8	    Mon., Mar. 11         Sampling distributions                                          Udacity problem set, Writing 5  
+8	    Mon., Mar. 11         Sampling distributions                                          Udacity problem set 7, Activity 3
 
-9	    Mon., Mar. 18         Estimation                                                      Udacity problem set, Writing 6                
+9	    Mon., Mar. 18         Estimation                                                      Udacity problem set 8, Writing 3                
 
-10    Mon., Mar. 25         Hypothesis testing                                              Udacity problem set, Quiz 3          
+10    Mon., Mar. 25         Hypothesis testing                                              Udacity problem set 9, Quiz 3          
 
   	  Mon., Apr. 1          **Spring recess**
+  	  
   	                        Cesar Chavez Day (Observed) - Campus Closed Mon. Apr. 1
 
-11	  Mon., Apr. 8          T-Tests, Part 1                                                 Udacity problem set, Writing 7                                   
+11	  Mon., Apr. 8          T-Tests, Part 1                                                 Udacity problem set 10, Writing 4                                   
 
-12	  Mon., Apr. 15         T-Tests, Part 2                                                 Udacity problem set, Quiz 4              
+12	  Mon., Apr. 15         T-Tests, Part 2                                                 Udacity problem set 11, Quiz 4              
 
-13	  Mon., Apr. 22         One-way ANOVA, Part 1                                           Udacity problem set, Writing 8
+13	  Mon., Apr. 22         One-way ANOVA, Part 1                                           Udacity problem set 12, Activity 4
 
-14	  Mon., Apr. 29         One-way ANOVA, Part 2                                           Udacity problem set, Writing 9             
+14	  Mon., Apr. 29         One-way ANOVA, Part 2                                           Udacity problem set 13, Writing 5             
 
-15	  Mon., May. 6          Correlation                                                     Udacity problem set, Writing 10                    
+15	  Mon., May. 6          Correlation                                                     Udacity problem set 14, Activity 5
 
       Mon., May 13          Last day of instruction, assignment submission ends 11:59 pm
       
-Final Fri., May 16	        Final quiz due, 5:15pm                                          Quiz 5
+Final Thu., May 16	        Final quiz due, 5:15pm                                          Quiz 5
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
